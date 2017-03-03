@@ -1,2 +1,7 @@
 *.dat
 results/
+*.data
+!final.dat
+
+log_*
+!log_01
